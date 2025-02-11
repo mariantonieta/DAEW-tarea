@@ -1,22 +1,22 @@
 # DAEW-tarea
 <h1>MIS COMPAÑEROS</h1>
 <table>
-  <th>
-  <td>Nombre</td>
-    <td>Githubs</td>
-</th>
-  <th>
+  <tr>
+  <th>Nombre</th>
+    <th>Githubs</th>
+</tr>
+  <tr>
   <td>Jaime</td>
     <td>	https://github.com/JaimeS-0</td>
-</th>
-  <th>
+</tr>
+  <tr>
   <td>Geovanna</td>
     <td>https://github.com/GeoDSO</td>
-</th>
-    <th>
+</tr>
+    <tr>
   <td>Paolo</td>
     <td>https://github.com/DRAKKO84</td>
-</th>
+</tr>
 
   
 </table>
